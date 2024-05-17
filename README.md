@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeelFlip4)](https://github.com/HeelFlip4/github-readme-stats),
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeelFlip4&show_icons=true&theme=dracula)
 <!--
 **HeelFlip4/HeelFlip4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
