@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Felipe Paiva 👋</h2>
+<h2 align="left">Hi, I'm Felipe Paiva 👋🎉</h2>
 <h3 align="left">About Me:</h3>
 <p align="left">
 I am a programming enthusiast, having decided to work in this area since I was a child, as it is my passion. 
