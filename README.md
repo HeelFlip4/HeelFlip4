@@ -1,34 +1,27 @@
-<h2 align="left">Hi, I'm Felipe Paiva 👋🎉</h2>
+<h2 align="left">Hi, I'm Felipe Paiva 👋</h2>
+
 <h3 align="left">About Me:</h3>
 <p align="left">
-I am a programming enthusiast, having decided to work in this area since I was a child, as it is my passion. 
+Mobile Developer focused on Flutter, with experience in building modern applications, backend integrations, and well-structured solutions with attention to architecture, performance, and maintainability.
+</p>
 
-I prefer the Python and Dart languages, with a focus on mobile development using the Flutter tool, which I study self-taught. 
+<p align="left">
+I work across different layers of software development, including APIs, business rules, and relational databases, always aiming to deliver scalable, organized, and practical solutions.
+</p>
 
-I aim to become a future computer scientist.
+<p align="left">
+My main focus is to create reliable products with clean code, solid technical foundations, and real value from both a technical and product perspective.
+</p>
 
 <h4 align="left">Hard Skills:</h4>
-<p align="left"> 
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"> 
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+<p align="left">
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="42" height="42" /></a>&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql server" width="42" height="42" /></a>&nbsp;&nbsp;
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a>&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 </p>
 
-</p>
 <h3 align="left">Find me at:</h3>
-<p> E-mail: felipebrpp@gmail.com </p> 
-</p>
-
-
+<p align="left">E-mail: felipebrpp@gmail.com</p>
