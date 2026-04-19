@@ -15,7 +15,7 @@ My main focus is to create reliable products with clean code, solid technical fo
 
 <h4 align="left">Hard Skills:</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,cs,python,linux" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=flutter,cs,python,linux,aws,dart" alt="skills" />
 </p>
 
 <h3 align="left">Find me at:</h3>
